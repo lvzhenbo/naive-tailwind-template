@@ -17,17 +17,16 @@
     "vue": "^3.5.29"
   },
   "devDependencies": {
-    "@rushstack/eslint-patch": "^1.16.1",
     "@tailwindcss/vite": "^4.2.1",
     "@tsconfig/node24": "^24.0.4",
     "@types/node": "^25.3.3",
     "@vitejs/plugin-vue": "^6.0.4",
     "@vitejs/plugin-vue-jsx": "^5.1.4",
-    "@vue/eslint-config-prettier": "^9.0.0",
-    "@vue/eslint-config-typescript": "^13.0.0",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.7.0",
     "@vue/tsconfig": "^0.9.0",
-    "eslint": "^8.57.1",
-    "eslint-plugin-vue": "^9.33.0",
+    "eslint": "^10.0.2",
+    "eslint-plugin-vue": "^10.8.0",
     "npm-run-all2": "^8.0.4",
     "prettier": "^3.8.1",
     "tailwindcss": "^4.2.1",
@@ -35,7 +34,8 @@
     "unplugin-auto-import": "^21.0.0",
     "unplugin-vue-components": "^31.0.0",
     "vite": "^7.3.1",
-    "vue-eslint-parser": "^9.4.3",
+    "vite-plugin-vue-devtools": "^8.0.7",
+    "vue-eslint-parser": "^10.4.0",
     "vue-tsc": "^3.2.5"
   },
   "packageManager": "pnpm@10.30.3+sha512.c961d1e0a2d8e354ecaa5166b822516668b7f44cb5bd95122d590dd81922f606f5473b6d23ec4a5be05e7fcd18e8488d47d978bbe981872f1145d06e9a740017"
